@@ -21,15 +21,6 @@ pip3 install satispy
 - Size of Cmd
 - Sleep Command
 
-## Clear
-<p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
-
-```python
-from satispy import Clear
-
-Satispy.Clear()
-```
-
 ## Title
 <p><i><strong>Adjust a Cmd Title.</strong></i></p>
 
@@ -37,4 +28,13 @@ Satispy.Clear()
 from satispy import Title
 
 Satispy.Title("hello world")
+```
+
+## Clear
+<p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
+
+```python
+from satispy import Clear
+
+Satispy.Clear()
 ```
