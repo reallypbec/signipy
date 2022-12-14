@@ -14,4 +14,4 @@
 pip3 install satispy
 ```
 
-### Functions
+# Functions
