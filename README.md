@@ -27,6 +27,15 @@ from satispy import Center
 print(Satispy.Center("hello world"))
 ```
 
+## Terminal Size
+<p><i><strong>Align text from print statement in center.</strong></i></p>
+
+```python
+from satispy import Size
+
+Satispy.Size(120, 32)
+```
+
 ## Title
 <p><i><strong>Adjust a Cmd Title in your favor.</strong></i></p>
 
