@@ -28,7 +28,7 @@ print(Satispy.Center("hello world"))
 ```
 
 ## Title
-<p><i><strong>Adjust a Cmd Title.</strong></i></p>
+<p><i><strong>Adjust a Cmd Title in your favor.</strong></i></p>
 
 ```python
 from satispy import Title
