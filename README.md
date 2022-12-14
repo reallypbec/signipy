@@ -18,6 +18,7 @@ pip3 install satispy
 
 ## Clear
 <p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
+
 ```python
 from satispy import Clear
 
