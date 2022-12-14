@@ -18,6 +18,15 @@
 + Sleep Command
 ```
 
+## Center
+<p><i><strong>Align text from print statement in center.</strong></i></p>
+
+```python
+from satispy import Center
+
+print(Satispy.Center("hello world"))
+```
+
 ## Title
 <p><i><strong>Adjust a Cmd Title.</strong></i></p>
 
@@ -34,13 +43,4 @@ Satispy.Title("hello world")
 from satispy import Clear
 
 Satispy.Clear()
-```
-
-## Center
-<p><i><strong>Align text from print statement in center.</strong></i></p>
-
-```python
-from satispy import Center
-
-print(Satispy.Center("hello world"))
 ```
