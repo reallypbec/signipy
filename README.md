@@ -53,3 +53,11 @@ from satispy import Clear
 
 Satispy.Clear()
 ```
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are very welcome!<br />Feel free to check [issues page](https://github.com/vyzv/satispy/issues).
+
+## ❤ Show your support
+
+Give a ⭐️ if this project helped you!
