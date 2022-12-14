@@ -20,7 +20,7 @@
 Contributions and feature requests are very welcome! Feel free to check [issues page](https://github.com/vyzv/satispy/issues).
 
 ## Terminal Size
-<p><i><strong>Adjust Terminal Size.</strong></i></p>
+<p><i><strong>Adjust Terminal Size in your Code.</strong></i></p>
 
 ```python
 from satispy import Size
