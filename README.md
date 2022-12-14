@@ -4,6 +4,9 @@
   <img alt="License: MIT" src="https://img.shields.io/github/license/vyzv/satispy" />
 </p>
 
+> Satispy is a python library for simplifying System Functions.
+> Made by [vyzv](https://github.com/vyzv)
+
 ## Install
 
 ```sh
