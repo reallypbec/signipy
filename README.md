@@ -1,7 +1,7 @@
-<h1 align="center">PyMinify</h1>
+<h1 align="center">SigniPy</h1>
 
 ```
-pip3 install pyminify
+pip3 install signipy
 ```
 
 # Functions
@@ -19,18 +19,18 @@ Contributions and feature requests are very welcome! [Issues Page](https://githu
 <p><i><strong>Adjust Terminal Size in your Code.</strong></i></p>
 
 ```python
-from pyminify import Size
+from signipy import Size
 
-Pyminify.Size(120, 32) # (120, 32) is normal terminal size
+Signipy.Size(120, 32) # (120, 32) is normal terminal size
 ```
 
 ## Center Alignment
 <p><i><strong>Align text from print statement in center.</strong></i></p>
 
 ```python
-from pyminify import Center
+from signipy import Center
 
-print(Pyminify.Center("hello world"))
+print(Signipy.Center("hello world"))
 ```
 Credits to pycenter
 
@@ -38,26 +38,26 @@ Credits to pycenter
 <p><i><strong>Adjust a Cmd Title in your favor.</strong></i></p>
 
 ```python
-from pyminify import Title
+from signipy import Title
 
-Pyminify.Title("hello world")
+Signipy.Title("hello world")
 ```
 
 ## Clear Command
 <p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
 
 ```python
-from pyminify import Clear
+from signipy import Clear
 
-Pyminify.Clear()
+Signipy.Clear()
 ```
 
 ## Sleep Command
 <p><i><strong>Make the Programm sleep.</strong></i></p>
 
 ```python
-from pyminify import Sleep
+from signipy import Sleep
 
-Pyminify.Sleep(3) # makes the programm sleep for 3 seconds
+Signipy.Sleep(3) # makes the programm sleep for 3 seconds
 ```
 > <3
