@@ -17,7 +17,7 @@
 + Size of Cmd
 + Sleep Command
 ```
-Contributions and feature requests are very welcome! Feel free to check [issues page](https://github.com/vyzv/satispy/issues).
+Contributions and feature requests are very welcome! [issues page](https://github.com/vyzv/satispy/issues) here.
 
 ## Terminal Size
 <p><i><strong>Adjust Terminal Size in your Code.</strong></i></p>
