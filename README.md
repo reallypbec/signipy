@@ -15,6 +15,10 @@ pip3 install satispy
 ```
 
 # Functions
+- Clear Cmd
+- Adjust Title
+- Align Center
+- Size of Cmd
 
 ## Clear
 <p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
