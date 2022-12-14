@@ -19,6 +19,7 @@ pip3 install satispy
 - Adjust Title
 - Align Center
 - Size of Cmd
+- Sleep Command
 
 ## Clear
 <p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
@@ -27,4 +28,13 @@ pip3 install satispy
 from satispy import Clear
 
 Satispy.Clear()
+```
+
+## Title
+<p><i><strong>Adjust a Cmd Title.</strong></i></p>
+
+```python
+from satispy import Title
+
+Satispy.Title("hello world")
 ```
