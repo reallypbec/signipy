@@ -54,8 +54,8 @@ from satispy import Clear
 Satispy.Clear()
 ```
 
-## 🤝 Contributing
+## Contributing
 
-Contributions, issues and feature requests are very welcome!<br />Feel free to check [issues page](https://github.com/vyzv/satispy/issues).
+Contributions and feature requests are very welcome!<br />Feel free to check [issues page](https://github.com/vyzv/satispy/issues).
 
 > <3
