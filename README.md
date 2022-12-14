@@ -36,6 +36,7 @@ from satispy import Center
 
 print(Satispy.Center("hello world"))
 ```
+Credits to pycenter
 
 ## Cmd Title
 <p><i><strong>Adjust a Cmd Title in your favor.</strong></i></p>
@@ -56,7 +57,7 @@ Satispy.Clear()
 ```
 
 ## Sleep Command
-<p><i><strong>Sleep.</strong></i></p>
+<p><i><strong>Make the Programm sleep.</strong></i></p>
 
 ```python
 from satispy import Sleep
