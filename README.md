@@ -4,7 +4,6 @@
   <img alt="License: MIT" src="https://img.shields.io/github/license/vyzv/satispy" />
 </p>
 
-> PyMinify is a python library for simplifying System Functions.
 ```
 pip3 install pyminify
 ```
