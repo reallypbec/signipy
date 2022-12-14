@@ -42,5 +42,5 @@ Satispy.Clear()
 ```python
 from satispy import Center
 
-Satispy.Center("hello world")
+print(Satispy.Center("hello world"))
 ```
