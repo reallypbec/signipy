@@ -11,11 +11,11 @@
 ## Functions
 
 ```sh
-- Clear Cmd
-- Adjust Title
-- Align Center
-- Size of Cmd
-- Sleep Command
++ Clear Cmd
++ Adjust Title
++ Align Center
++ Size of Cmd
++ Sleep Command
 ```
 
 ## Title
