@@ -1,6 +1,7 @@
 # made with <3 by vyzv
 # current version : 1.0
 
+
 import time, os
 from sys import platform
 from os import system, name, get_terminal_size as _terminal_size
