@@ -1,5 +1,5 @@
 # made with <3 by vyzv
-# current version : 1.0
+# current version : 1.0.0
 
 
 import time, os
