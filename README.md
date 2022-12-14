@@ -35,3 +35,12 @@ from satispy import Clear
 
 Satispy.Clear()
 ```
+
+## Center
+<p><i><strong>Align text from print statement in center.</strong></i></p>
+
+```python
+from satispy import Center
+
+Satispy.Center("hello world")
+```
