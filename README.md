@@ -7,6 +7,9 @@
 > PyMinify is a python library for simplifying System Functions.
 > <br>
 > Created by [vyzv](https://github.com/vyzv)
+```
+pip3 install pyminify
+```
 
 # Functions
 
