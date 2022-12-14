@@ -10,7 +10,7 @@
 
 ## Functions
 
-```sh
+```diff
 + Clear Cmd
 + Adjust Title
 + Align Center
