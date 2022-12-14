@@ -18,7 +18,7 @@
 + Sleep Command
 ```
 
-## Center
+## Center Alignment
 <p><i><strong>Align text from print statement in center.</strong></i></p>
 
 ```python
@@ -36,7 +36,7 @@ from satispy import Size
 Satispy.Size(120, 32)
 ```
 
-## Title
+## Cmd Title
 <p><i><strong>Adjust a Cmd Title in your favor.</strong></i></p>
 
 ```python
@@ -45,7 +45,7 @@ from satispy import Title
 Satispy.Title("hello world")
 ```
 
-## Clear
+## Clear Command
 <p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
 
 ```python
