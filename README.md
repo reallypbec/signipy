@@ -19,6 +19,15 @@
 ```
 Contributions and feature requests are very welcome! Feel free to check [issues page](https://github.com/vyzv/satispy/issues).
 
+## Terminal Size
+<p><i><strong>Adjust Terminal Size.</strong></i></p>
+
+```python
+from satispy import Size
+
+Satispy.Size(120, 32) # (120, 32) is normal terminal size
+```
+
 ## Center Alignment
 <p><i><strong>Align text from print statement in center.</strong></i></p>
 
@@ -26,15 +35,6 @@ Contributions and feature requests are very welcome! Feel free to check [issues 
 from satispy import Center
 
 print(Satispy.Center("hello world"))
-```
-
-## Terminal Size
-<p><i><strong>Align text from print statement in center.</strong></i></p>
-
-```python
-from satispy import Size
-
-Satispy.Size(120, 32)
 ```
 
 ## Cmd Title
@@ -55,8 +55,8 @@ from satispy import Clear
 Satispy.Clear()
 ```
 
-## Clear Command
-<p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
+## Sleep Command
+<p><i><strong>Sleep.</strong></i></p>
 
 ```python
 from satispy import Sleep
