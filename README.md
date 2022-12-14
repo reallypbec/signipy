@@ -17,7 +17,7 @@
 + Size of Cmd
 + Sleep Command
 ```
-Contributions and feature requests are very welcome!<br />Feel free to check [issues page](https://github.com/vyzv/satispy/issues).
+Contributions and feature requests are very welcome! Feel free to check [issues page](https://github.com/vyzv/satispy/issues).
 
 ## Center Alignment
 <p><i><strong>Align text from print statement in center.</strong></i></p>
