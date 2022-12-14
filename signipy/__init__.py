@@ -19,7 +19,7 @@ class Signipy:
      if name == 'nt':
         return system(f"title {xtitle}")
 
-  def Size(a: int, b: int): # standard size is 120, 32
+  def Size(a: int, b: int): # standard size -> 120, 32
      if name == 'nt':
         return system(f"mode {a}, {b}")
 
