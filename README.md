@@ -8,7 +8,7 @@
 > <br>
 > Created by [vyzv](https://github.com/vyzv)
 
-## Functions
+# Functions
 
 ```diff
 + Clear Cmd
