@@ -55,4 +55,12 @@ from satispy import Clear
 Satispy.Clear()
 ```
 
+## Clear Command
+<p><i><strong>Clear Terminal or Cmd Quickly.</strong></i></p>
+
+```python
+from satispy import Sleep
+
+Satispy.Sleep(3) # makes the programm sleep for 3 seconds
+```
 > <3
