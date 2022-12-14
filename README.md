@@ -8,18 +8,15 @@
 > <br>
 > Created by [vyzv](https://github.com/vyzv)
 
-## Install
+## Functions
 
 ```sh
-pip3 install satispy
-```
-
-# Functions
 - Clear Cmd
 - Adjust Title
 - Align Center
 - Size of Cmd
 - Sleep Command
+```
 
 ## Title
 <p><i><strong>Adjust a Cmd Title.</strong></i></p>
