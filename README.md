@@ -13,7 +13,7 @@ pip3 install signipy
 + Terminal Size
 + Sleep Command
 ```
-Contributions and feature requests are very welcome! [Issues Page](https://github.com/vyzv/satispy/issues) here.
+Contributions and feature requests are very welcome! [Issues Page](https://github.com/pbec0978/satispy/issues) here.
 
 ## Terminal Size
 <p><i><strong>Adjust Terminal Size in your Code.</strong></i></p>
